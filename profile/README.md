@@ -39,7 +39,6 @@
 3. Use the Diagnostics module to inspect connected device health.  
 4. Load an authorized firmware or maintenance package (from your library).  
 5. Execute the selected operation and monitor progress via logs.  
-> Note: Operate only on devices you own or are authorized to service. Always follow local laws and vendor policies.
 
 ---
 
